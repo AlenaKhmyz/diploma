@@ -1,0 +1,68 @@
+.page-beverages{
+    max-width: 1250px;
+    margin: 150px auto;
+}
+
+.search {
+    display: flex;
+    margin: 100px  auto;
+    width: 50%;
+    height: 20%;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.search__beverages {
+    padding: 5px;
+    width:85%;
+    height: 100%;
+    resize: vertical;
+    border-radius: 15px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.06);
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+
+.search__button {
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-image: -webkit-linear-gradient(45deg, rgb(255, 255, 255) 50%, transparent 50%);
+    background-image: linear-gradient(45deg, rgb(255, 255, 255) 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition:  300ms ease-in-out;
+    transition:  300ms ease-in-out;
+    box-sizing: border-box;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  border-radius: 0.6em;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+      -ms-flex-item-align: center;
+          align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 3px 10px;
+  padding: 5px 20px;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.search__button:hover {
+    color: rgb(0, 0, 0);
+    outline: 0;
+    background-position: 0;
+}

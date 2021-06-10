@@ -1,0 +1,266 @@
+{
+  "postsNews": [
+    {
+      "id": 1,
+      "title": " The best bartenders in the world will teach how to make cocktails in an online bar The Village.",
+      "body": "Another online party at The Village Cantina will take place this Thursday May 28th On it three famous bartenders from different parts of the world will teach participants how to make cocktails. Visiting The Village: NIKITA KHLOPYANOV - Chief Bartender of High Bar, finalist and ambassador of the famous Diageo Reserve World Class program for bartenders; CHARLES JOLIE - mixology guru from Chicago, the best bartender in the world 2014 according to Diageo. KATELIN STUART is a Vancouver-based barlady who became the best in the world in 2017. Well-known bloggers, for example, Sasha Zharkova and Lena Ushakova, as well as the singer Liza Gromova, will also drop by the Cantina. The party will start at 20:00.",
+      "time": "smth",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "first": "Barr",
+            "last": "Copeland"
+          },
+          "body": "For a long time I was afraid of this cocktail for lack of decent whiskey. It's time to buy a decent bourbon, but today Balantines caught the eye. I decided to try it with this scotch tape and ... I'm absolutely delighted! True, he cheated a little by adding 2 dash cointreau and with it, respectively, sweets, but this is just a great thing. What is the next SIP, you say? :)",
+          "postId": 1
+        },
+        {
+          "id": 2,
+          "author": {
+            "first": "Brandi",
+            "last": "Hawkins"
+          },
+          "body": "Bartenders can become the face of your restaurant or bar and one poor remark can completely change a customer's experience at your business. Their frequent interactions with guest require them to be confident and charismatic. You want guest to come back and having a great bartender can definitely be a driving factor. ",
+          "postId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "THE GLENLIVET STORY OF START: NEW COMPETITION FOR BARMEN",
+      "body": " The Glenlivet single malt scotch whiskey brand announces the start of a professional competition for Belarusian bartenders with a good prize fund and very interesting mechanics, thanks to which bartenders will be able to discover something new in themselves. Institutions can also participate in the competition. The Glenlivet is one of the world's most iconic single malt Scotch whiskey brands that honors its history and prides itself on its origins. It is not surprising that the brand invites bartenders to focus on their stories during the first bartender competition in Belarus under the auspices of the brand. The Story of Start is a competition that allows bartenders to tell about themselves, how they got into the profession and how they achieved success.",
+      "time": "smth",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "first": "Perez",
+            "last": "Valencia"
+          },
+          "body": "“I just discovered Crew (Supply Co.),” explains Chelsea Napper, the bar director at Yūgen in Chicago. “The bottles have the ability to have the bottoms screwed off for easy cleaning, easy infusions, and I love the reusability mostly.” Crew Bottles’ reusable bottles are excellent for storing citrus juice and homemade syrups, either in a professional bar setting or at home.  ",
+          "postId": 1
+        }
+      ]
+    }
+  ],
+  "postsBeverages": [
+    {
+      "id": 1,
+      "title": "Old Fashioned",
+      "items": [
+        "bourbon",
+        "bitters",
+        "old fashioned",
+        "angostura bitters"
+      ],
+      "body": "- 2 oz bourbon or rye whiskey - 2 dashes Angostura bitters - 1 sugar cube or 1 tsp sugar - Orange twist garnish. Put sugar in glass. Cover it with dashes of bitters. Add whiskey and stir until sugar dissolves. Add ice, stir again, and serve. If the barman starts shaking the ingredients or muddling fruit, have your next round at another bar.",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "first": "Curtis",
+            "last": "Greene"
+          },
+          "body": "Сocktail mixed according to the most classic formula: alcohol, sugar, bitter and water. one of the oldest cocktails, the recipe of which has remained practically unchanged for a century and a half. ",
+          "postId": 1
+        },
+        {
+          "id": 2,
+          "author": {
+            "first": "Barr",
+            "last": "Copeland"
+          },
+          "body": "For a long time I was afraid of this cocktail for lack of decent whiskey. It's time to buy a decent bourbon, but today Balantines caught the eye. I decided to try it with this scotch tape and ... I'm absolutely delighted! True, he cheated a little by adding 2 dash cointreau and with it, respectively, sweets, but this is just a great thing. What is the next SIP, you say? :)",
+          "postId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Margarita",
+      "items": [
+        "tequila",
+        "Cointreau",
+        "lime juice",
+        "rim",
+        "juice"
+      ],
+      "body": "- 2 oz silver tequila - 1 oz Cointreau - 1 oz lime juice - Salt for the rim. Since this recipe includes fresh juice, it should be shaken. Serve over ice in a glass with a salted rim.",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "first": "Calhoun",
+            "last": "Woodward"
+          },
+          "body": "Triple Sec is terrible. Skip it-- 2 oz tequila 1 1/2 limes 3/4 oz agave syrup Squeeze of fresh orange juice (if you have to) I've made my margaritas this way for many years, and everyone that has one says it's better than any bar's. It's bright and fresh tasting instead of the chemical-tasting triple sec or Cointreau.",
+          "postId": 1
+        },
+        {
+          "id": 2,
+          "author": {
+            "first": "Leta",
+            "last": "Lee"
+          },
+          "body": "I like to swap out triple sec for damiana liqueur, I find it adds a nicer layer to the mix",
+          "postId": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Manhattan",
+      "items": [
+        "bourbon",
+        "vermouth",
+        "manhattan",
+        "angostura bitters"
+      ],
+      "body": "2 ounces bourbon or rye, 1 ounce sweet vermouth, 2 dashes Angostura bitters, 1 dash orange bitters, Garnish: brandied cherry. Add the bourbon (or rye), sweet vermouth and both bitters to a mixing glass with ice, and stir until well-chilled. Strain into a chilled coupe. Garnish with a brandied cherry.",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "first": "Leta",
+            "last": "Lee"
+          },
+          "body": "Manhattans are the best! Classic proportions here. We just tried Cocchi vermouth & recommend it as a solid option. Not an option, are the Luxardo cherries—we always pop two & a splash of juice into our (rocks) glasses. And, it’s best to store Luxardo cherries in a cool, dry place—even after opening—as refrigeration can (& did, experience is a ruthless teacher) cause the syrup to crystallize. It says all this on the label. Cheers!",
+          "postId": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Negroni",
+      "items": [
+        "gin",
+        "campari",
+        "vermouth",
+        "negroni"
+      ],
+      "body": "1 ounce gin, 1 ounce Campari,  ounce sweet vermouth, Garnish: orange peel. Add the gin, Campari and sweet vermouth to a mixing glass filled with ice, and stir until well-chilled. Strain into a rocks glass filled with large ice cubes. Garnish with an orange peel.",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "first": "Henry",
+            "last": "Stewart"
+          },
+          "body": "Unless you order a Negroni \"up,\" you'll get it over ice--that's the classic, and standard composition, as is an orange twist in the USA, or slice in Italy.",
+          "postId": 1
+        },
+        {
+          "id": 2,
+          "author": {
+            "first": "Mary",
+            "last": "Compton"
+          },
+          "body": "If a bartender serves me a NEGRONI on the Rocks I would send it back immediately. Gin? Beefeater vs. Hendrix are like comparing Rye versus bourbon. No garnish.",
+          "postId": 1
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "_id": "5e91ac98757a1ede800228ab",
+      "index": 0,
+      "picture": "https://avatars.dicebear.com/api/human/a.svg",
+      "name": {
+        "first": "Curtis",
+        "last": "Greene"
+      },
+      "phone": "+19254223749",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac98dee76a88eaeb1081",
+      "index": 1,
+      "picture": "https://avatars.dicebear.com/api/human/b.svg",
+      "name": {
+        "first": "Nikki",
+        "last": "Lowe"
+      },
+      "phone": "+19684122741",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac983ed21bfcc3e35c68",
+      "index": 2,
+      "picture": "https://avatars.dicebear.com/api/human/c.svg",
+      "name": {
+        "first": "Barr",
+        "last": "Copeland"
+      },
+      "phone": "+18465683597",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac984e4b99ebac515143",
+      "index": 3,
+      "picture": "https://avatars.dicebear.com/api/human/n.svg",
+      "name": {
+        "first": "Calhoun",
+        "last": "Woodward"
+      },
+      "phone": "+19745303479",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac982930f0c7dfc0eec5",
+      "index": 4,
+      "picture": "https://avatars.dicebear.com/api/human/g.svg",
+      "name": {
+        "first": "Leta",
+        "last": "Lee"
+      },
+      "phone": "+19325003737",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac988069b104f1dac976",
+      "index": 5,
+      "picture": "https://avatars.dicebear.com/api/human/e.svg",
+      "name": {
+        "first": "Henry",
+        "last": "Stewart"
+      },
+      "phone": "+19405063442",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac988073180d3af657d8",
+      "index": 6,
+      "picture": "https://avatars.dicebear.com/api/human/2.svg",
+      "name": {
+        "first": "Mary",
+        "last": "Compton"
+      },
+      "phone": "+19355642116",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac9861717bb3ebc8ebd1",
+      "index": 7,
+      "picture": "https://avatars.dicebear.com/api/human/p.svg",
+      "name": {
+        "first": "Brandi",
+        "last": "Hawkins"
+      },
+      "phone": "+19585513021",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "_id": "5e91ac989055a3230367b654",
+      "index": 8,
+      "picture": "https://avatars.dicebear.com/api/human/w.svg",
+      "name": {
+        "first": "Perez",
+        "last": "Valencia"
+      },
+      "phone": "+19704243095",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    }
+  ]
+}
